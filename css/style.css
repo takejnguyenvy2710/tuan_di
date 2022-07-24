@@ -179,6 +179,7 @@
 
 #Contact-box{
     background-image: url(../img/Contact.jpg);
+    background-attachment: fixed;
     background-size: cover;
     height: 100vh;
 }
